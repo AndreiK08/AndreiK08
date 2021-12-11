@@ -1,7 +1,6 @@
 ### Hi there, 👋I'm Andrei Cîmpean
-Aspiring Front-End Developer
 
-As an aspiring web developer I try to find
+As an Aspiring Front-End Developer I try to find
 innovative ways of approaching a problem or to
 help the team solve an issue.
 I love delivering valuable solutions to customers,
