@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, 👋I'm Andrei Cîmpean
+Aspiring Front-End Developer
 
-<!--
-**AndreiK08/AndreiK08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an aspiring web developer I try to find
+innovative ways of approaching a problem or to
+help the team solve an issue.
+I love delivering valuable solutions to customers,
+and to be part of the development process
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently studying Web Development @ The Informal School of IT
+- 
+- 👯 I’m looking to collaborate on Open source web dev projects.
+- 
+- 👨‍💻 All of my projects are available on https://github.com/AndreiK08?tab=repositories
+- 
+- 📫 How to reach me: andreicimpean08@gmail.com
+- 
+- ⚡ Hobbies: Photography, football, games, DIY 
 -->
